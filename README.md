@@ -1,29 +1,31 @@
 # Hola, soy Santino Robin 👋
 
-**Técnico IT & QA Automation Tester** enfocado en el aseguramiento de la calidad del software. Me especializo en diseñar, construir y mantener suites de pruebas automatizadas limpias, rápidas y efectivas para garantizar que las aplicaciones web funcionen perfectamente antes de llegar al usuario.
+**Especialista en Soporte Técnico IT & Help Desk Analyst** enfocado en resolver problemas de manera eficiente y mejorar la experiencia del usuario final. 
+
+Me especializo en diagnosticar y solucionar incidencias técnicas de hardware y software, brindando atención al cliente de primer nivel. Además, cuento con un background sólido en programación y automatización de pruebas (QA), lo que me permite comunicarme fluidamente con equipos de desarrollo para escalar problemas complejos (Nivel 2/Nivel 3).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soporte_IT-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Troubleshooting-E34F26?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Customer_Success-2EAD33?style=for-the-badge&logo=zendesk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-## 🚀 Portfolio de QA Automation
+## 🛠️ Habilidades Técnicas y Resolutivas
 
-Aquí puedes ver mis proyectos principales, todos configurados con **CI/CD** usando GitHub Actions para ejecutarse automáticamente:
+- **Soporte & Help Desk:** Atención al usuario, resolución de tickets (L1/L2), instalación y configuración de software/hardware, diagnóstico de redes.
+- **Herramientas de Gestión:** Familiaridad con sistemas de tickets, CRM y asistencia remota.
+- **Habilidades Blandas:** Empatía, paciencia, comunicación clara, manejo de crisis y orientación al cliente.
+- **Background Técnico Adicional:** JavaScript, Git, automatización web con Playwright y conocimiento de APIs (útil para diagnosticar fallas en software y reportar bugs a desarrollo).
+
+## 🚀 Proyectos Técnicos (Background en Testing)
+
+Aunque mi enfoque principal es el soporte y la atención al cliente IT, también disfruto asegurando la calidad del software. Aquí puedes ver algunos proyectos técnicos que he desarrollado, los cuales demuestran mi capacidad para entender sistemas complejos a nivel de código:
 
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
-| 🛒 **E-commerce E2E** | Suite completa de pruebas End-to-End simulando flujos reales de usuarios en una tienda online usando Playwright. | [Ver Repo](https://github.com/santinorobin7-alt/qa-portfolio) |
-| 🔌 **API REST Testing** | Validación de respuestas, status codes y contenido JSON de endpoints (Rick & Morty API). | [Ver Repo](https://github.com/santinorobin7-alt/api-testing-portfolio) |
-| 📋 **Validación de Formularios** | Pruebas exhaustivas de edge-cases, validaciones y rechazo de datos incorrectos en UI. | [Ver Repo](https://github.com/santinorobin7-alt/form-testing-portfolio) |
-
-## 🛠️ Habilidades Técnicas
-
-- **Testing:** E2E, API Testing, UI Testing, Form Validation, CI/CD.
-- **Herramientas:** Playwright, Git, VS Code, GitHub Actions.
-- **Background IT:** Resolución de problemas lógicos, soporte y atención al detalle.
+| 🛒 **E-commerce E2E** | Suite de pruebas simulando flujos de usuarios. Demuestra mi capacidad para seguir flujos de error. | [Ver Repo](https://github.com/santinorobin7-alt/qa-portfolio) |
+| 🔌 **API REST Testing** | Validación de respuestas de servidores. Me ayuda a entender por qué falla un sistema en el backend. | [Ver Repo](https://github.com/santinorobin7-alt/api-testing-portfolio) |
 
 ## 📫 Contáctame
 
